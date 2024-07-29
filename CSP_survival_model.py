@@ -180,4 +180,4 @@ with torch.no_grad():
 
 result=pd.DataFrame({"risk_probability":np.array(outputs.view(-1))},index=gene_expression_test_data.columns)
 result["binary_risk"]=np.where(result['risk_probability']>0.5,"high","low")
-result.to_csv("Output_flie.csv",index=True)
+result.to_csv("Output_File.csv",index=True)
