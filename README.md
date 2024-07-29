@@ -8,10 +8,10 @@ Deep learning survival model  based on cGAS-STING-centric pathways
         pandas 2.0.1  
 ## Step 2: Establish a new working directory for your survival prediction.
         /new working directory  
-          |_ CSP_survial_model.py  
-          |_ Deep_laerning_input_pathways.csv  
+          |_ CSP_survival_model.py  
+          |_ Deep_learning_input_pathways.csv  
           |_ Input_File.csv  
-          |_ Trained_deep_learning.pth  
+          |_ Trained_deep_learning_model.pth  
        Tip: The "Input_File.csv" document is fundamentally a gene expression matrix (TPM format);    
             when using it, please replace the provided file with your own.  
 ## Step 3: Directly execute the Python script.
