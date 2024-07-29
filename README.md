@@ -1,7 +1,7 @@
 # CSP_survival_model
 Deep learning survival model  based on cGAS-STING-centric pathways
 ## Step 1: Configure  the  working  environment.
-We recommend the use of conda for managing Python version and Python module versions.
+        We recommend the use of conda for managing Python version and Python module versions.
         python 3.8.1  
         numpy 1.24.3  
         torch 2.0.0  
