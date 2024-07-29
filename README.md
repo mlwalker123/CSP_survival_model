@@ -15,7 +15,7 @@ We recommend the use of conda for managing Python version and Python module vers
   Tip: The "Input_File.csv" document is fundamentally a gene expression matrix (TPM format);    
        when using it, please replace the provided file with your own.  
 ## Step 3: Directly  execute  the  Python  script.
-  python CSP_survial_model.py  
+    python CSP_survial_model.py  
 
 
 
