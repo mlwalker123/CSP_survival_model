@@ -1,5 +1,5 @@
 # CSP_survival_model
-Deep learning survival model  based on cGAS-STING-centric pathways
+Deep learning survival model for hepatocellular carcinoma patients based on cGAS-STING-centric pathways
 ## Step 1: Configure  the  working  environment.
         We recommend the use of conda for managing Python version and Python module versions.
         python 3.8.1  
