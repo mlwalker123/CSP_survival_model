@@ -23,7 +23,7 @@ gene_set=[]
 for i in range(cGAS_STING_centric_pathways_copy.shape[1]):
     gene_set=gene_set+list(cGAS_STING_centric_pathways_copy.iloc[:,i])
 
-all_gene_mean_expression = 4992.7214 #all_gene_mean_expression was used for data correction.
+all_gene_mean_expression = 4992.7214 #all_gene_mean_expression is used for data correction.
 
 class MultitaskDataset(torch.utils.data.Dataset):
     def __init__(self, inputs, labelsA, labelsB):
