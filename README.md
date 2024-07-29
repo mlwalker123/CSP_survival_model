@@ -6,7 +6,7 @@ Deep learning survival model  based on cGAS-STING-centric pathways
         numpy 1.24.3  
         torch 2.0.0  
         pandas 2.0.1  
-## Step 2: Establish a new working directory including following files for your survival prediction.
+## Step 2: Establish a new working directory including following files.
         /new working directory  
           |_ CSP_survival_model.py  
           |_ Deep_learning_input_pathways.csv  
