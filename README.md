@@ -17,7 +17,7 @@ Deep learning survival model for hepatocellular carcinoma patients based on cGAS
 ## Step 3: Directly execute the Python script.
         python CSP_survial_model.py  
 ## Step 4: Inspect the output file.
-After executing the aforementioned Python script, you will obtain a file named "Output_file.csv"; "risk_probability" denotes the survival risk   probability of patients with hepatocellular carcinoma, with higher risk probability indicating poorer prognosis. We employ 0.5 as the threshold to    determine the survival risk probability of patients with hepatocellular carcinoma.  
+After executing the aforementioned Python script, you will obtain a file named "Output_file.csv"; "risk_probability" denotes the survival risk probability of patients with hepatocellular carcinoma, with higher risk probability indicating poorer prognosis. We employ 0.5 as the threshold to determine the survival risk probability of patients with hepatocellular carcinoma.  
 
 ## Tip: our code and data are only for academic researches.
 
